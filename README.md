@@ -1,9 +1,6 @@
 # cell-structure
-Cell Structure
+New:zap: Cell Structure
 
-New:zap:
-
-<h4 align="center">Cell structure. </h4>
 
 ## Authors & Maintainers
 - [Abdulsattar Mohammed](https://github.com/abdulsattar)
