@@ -15,3 +15,7 @@ New:zap: Cell Structure
 ## License
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE).
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
